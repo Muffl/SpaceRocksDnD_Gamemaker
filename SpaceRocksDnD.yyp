@@ -42,8 +42,16 @@
             "Key": "1cd65011-0960-4c7d-988b-f08bee491995",
             "Value": {
                 "id": "fd6abba1-99b2-48e1-88b7-a9dfddfc9703",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "258dca54-282c-49a2-930b-02ce0fd3d434",
+            "Value": {
+                "id": "97708a36-bcca-407a-8a04-b1b429763ba2",
+                "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -68,6 +76,14 @@
                 "id": "9569aee4-8349-411d-839e-0c95e50410a7",
                 "resourcePath": "views\\31f540db-fe22-481d-81ba-a3a25eeb8d9d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "45d6c2b3-aad1-4349-acb9-c83d8e25ebe2",
+            "Value": {
+                "id": "7c6934b0-9bed-4a51-b0ae-92be2ae320d2",
+                "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,6 +135,14 @@
             }
         },
         {
+            "Key": "8d5361ec-6986-4673-ac35-77edac924933",
+            "Value": {
+                "id": "057384ef-3506-44ee-a281-053cdfd0e2e0",
+                "resourcePath": "sprites\\spr_asteroid_huge\\spr_asteroid_huge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93b6c007-6131-40d1-84d4-2c760f86f105",
             "Value": {
                 "id": "4ef8bb59-741b-4629-8975-0d661dce1251",
@@ -143,6 +167,14 @@
             }
         },
         {
+            "Key": "b67bd55c-7715-4406-9507-72bdf7098037",
+            "Value": {
+                "id": "35af5f35-624a-4da5-ac68-78b8388ccc28",
+                "resourcePath": "objects\\obj_ship\\obj_ship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "d074682c-9379-4169-b3c4-47b1423f3b96",
@@ -159,11 +191,27 @@
             }
         },
         {
+            "Key": "e46ef14e-28be-4d4b-802a-9269512d8326",
+            "Value": {
+                "id": "604d7811-dbc2-4ccf-b5f0-02dba3ee5016",
+                "resourcePath": "sprites\\spr_asteroid_med\\spr_asteroid_med.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eb4f17d2-cb59-498f-9a0d-6595ab904b1f",
             "Value": {
                 "id": "161c51e2-dd8c-40cc-a9d3-af3285c47195",
                 "resourcePath": "views\\eb4f17d2-cb59-498f-9a0d-6595ab904b1f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "edcc621e-f37a-4aa1-a68d-5b0151ed60df",
+            "Value": {
+                "id": "2da2d193-7c64-4c21-b117-43b80c0c3342",
+                "resourcePath": "sprites\\spr_asteroid_small\\spr_asteroid_small.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
