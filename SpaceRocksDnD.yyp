@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "15dc4f86-a966-429e-938f-e8fdefe13e44",
+            "Value": {
+                "id": "0f779c70-1ae5-44c1-ae1c-e6104ae948aa",
+                "resourcePath": "objects\\obj_game\\obj_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1c0c5b44-fd52-4433-84ce-f80c78f0d627",
             "Value": {
                 "id": "2637a9da-ea4e-42e8-a18a-eea34ed33d93",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "9f686b08-76ae-458d-a16a-e5a2aea41f35",
+            "Value": {
+                "id": "3e05238f-d9d9-4fcb-a28e-60a2d741da68",
+                "resourcePath": "fonts\\fnt_text\\fnt_text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "9e6d9fe0-865f-411e-a9b4-47b41028a28f",
@@ -219,6 +235,14 @@
             "Value": {
                 "id": "604d7811-dbc2-4ccf-b5f0-02dba3ee5016",
                 "resourcePath": "sprites\\spr_asteroid_med\\spr_asteroid_med.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e9be2938-0c45-4577-a83e-f5c85008036d",
+            "Value": {
+                "id": "75f81e7d-59b9-4ee9-b401-16283e083864",
+                "resourcePath": "sprites\\spr_lives\\spr_lives.yy",
                 "resourceType": "GMSprite"
             }
         },
