@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "694b644d-7810-48ae-9aeb-39215ba2c56c",
+            "Value": {
+                "id": "d566903e-27a1-41e5-b65d-ffa386578152",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "69d955f8-0ae9-4381-905d-088693d6428c",
             "Value": {
                 "id": "2742460c-de38-4b68-80f3-23c133b546bc",
@@ -188,6 +196,14 @@
                 "id": "9e6d9fe0-865f-411e-a9b4-47b41028a28f",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b267da49-3a3c-408a-98c0-4e0f6336525d",
+            "Value": {
+                "id": "bf23a8d9-d807-4766-a235-fab8e1b4d852",
+                "resourcePath": "rooms\\rm_win\\rm_win.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -276,6 +292,14 @@
                 "id": "8af761bf-a201-468c-a7c4-a46dfec4e201",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6eafd05-6d34-4bc5-9605-30f82bec9beb",
+            "Value": {
+                "id": "67574ea8-df63-45b6-b181-2c3b87f62969",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
